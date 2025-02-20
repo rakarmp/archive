@@ -1,0 +1,32 @@
+baseURL = 'https://rakarmp.github.io/'
+languageCode = 'en-us'
+title = 'Archive'
+theme = 'archie'
+copyright = "© Rakarmp"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "Daily Article"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rakarmp"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
