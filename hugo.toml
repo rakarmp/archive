@@ -1,6 +1,6 @@
 baseURL = 'https://rakarmp.github.io/'
 languageCode = 'en-us'
-title = 'Archive'
+title = 'Archive 📚'
 theme = 'archie'
 copyright = "© Rakarmp"
 pygmentsstyle = "monokai"
@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Daily Article"
+	subtitle = "Daily Article/Archive By Me"
 
 [[params.social]]
 name = "GitHub"
